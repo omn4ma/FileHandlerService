@@ -13,3 +13,7 @@ The program monitors the appearance of files in the folder with source documents
 The source documents are copied to the folder for processing by external means during the program.
 
 The program should end only at the request of the user. Moreover, if at the time of receipt of the completion event in the workflows the documents are being processed, it is necessary to wait until the processing of these documents is completed and complete the work. Do not start processing the remaining documents.
+
+# ToDo
+1. Implement Idisposable interface for DocumentsPipeline class
+2. Сhoose another api in order to monitor the creation of files
