@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileHandler.Application": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Temp D:\\test"
+    }
+  }
+}
